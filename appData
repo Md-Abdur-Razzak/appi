@@ -1,0 +1,18 @@
+[
+  {
+    "brand": "Apple brandding ",
+    "model": "iPhone 13 Pro"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 6"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "9 Pro"
+  }
+]
